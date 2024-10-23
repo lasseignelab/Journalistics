@@ -125,9 +125,10 @@
 
 ### E. Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4vmiaA3Qt4Y?si=Uc-GZcaFyzklLcsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Building Intuition](https://img.youtube.com/vi/A3wJcF0t0bQ/0.jpg)](https://www.youtube.com/watch?v=A3wJcF0t0bQ)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cX-hAFH80Ls?si=l--FMpp081pNMCea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Jermaine Gordon](https://img.youtube.com/vi/cX-hAFH80Ls/0.jpg)](https://www.youtube.com/watch?v=cX-hAFH80Ls)
 
 
 
@@ -160,9 +161,9 @@
 
 ### C. Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YexGjE7WWD4?si=RXRuNzMFAy8Rd267" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Emma Ding](https://img.youtube.com/vi/YexGjE7WWD4/0.jpg)](https://www.youtube.com/watch?v=YexGjE7WWD4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wCnvr7Xw4E?si=IAPIzeqj8CYAiXaC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![StatQuest](https://img.youtube.com/vi/9wCnvr7Xw4E/0.jpg)](https://www.youtube.com/watch?v=9wCnvr7Xw4E)
 
 ## III. Bioinformatics Applications
 
