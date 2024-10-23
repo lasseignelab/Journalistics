@@ -125,7 +125,7 @@
 
 ### E. Videos
 
-[![Building Intuition](https://img.youtube.com/vi/A3wJcF0t0bQ/0.jpg)](https://www.youtube.com/watch?v=A3wJcF0t0bQ)
+[![Building Intuition](https://img.youtube.com/vi/4vmiaA3Qt4Y/0.jpg)](https://www.youtube.com/watch?v=4vmiaA3Qt4Y)
 
 
 [![Jermaine Gordon](https://img.youtube.com/vi/cX-hAFH80Ls/0.jpg)](https://www.youtube.com/watch?v=cX-hAFH80Ls)
