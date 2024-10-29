@@ -24,6 +24,7 @@
    - Finding a particular mutation
    - Observing differential expression
    - Identifying a binding site
+     
  **Event Space**: All possible ways an event can occur
 
 ### B. Types of Probability
