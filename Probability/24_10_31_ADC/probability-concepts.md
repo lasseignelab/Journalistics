@@ -132,7 +132,9 @@
 [![Jermaine Gordon](https://img.youtube.com/vi/cX-hAFH80Ls/0.jpg)](https://www.youtube.com/watch?v=cX-hAFH80Ls)
 
 
+### F. Reads
 
+[New article Dec 22 24](https://towardsdatascience.com/bayes-theorem-understanding-outcomes-with-evidence-9e23e18b0912)
 ## II. Core Probability Rules
 
 ### A. Basic Operations
